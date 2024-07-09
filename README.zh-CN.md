@@ -4,7 +4,7 @@
 
 [English Documentation](README.md)
 
-> 本插件90%工作由AIGC贡献，[协同过程分享](https://expert.matrixspace.ai/share#/5859fabbf29b4fe3af1e3e87831f1bf9]
+> 本插件90%工作由AIGC贡献，[协同过程分享](https://expert.matrixspace.ai/share#/5859fabbf29b4fe3af1e3e87831f1bf9)
 
 
 ## 安装
