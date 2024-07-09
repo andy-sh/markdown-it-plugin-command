@@ -1,0 +1,9 @@
+# development folders
+_build/
+coverage/
+dist/
+node_modules/
+
+# local configuration
+.vscode/
+tmp.md
