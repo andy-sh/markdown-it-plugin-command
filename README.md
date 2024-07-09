@@ -3,6 +3,8 @@ A markdown-it plugin for parsing command syntax.
 
 [中文文档](README.zh-CN.md)
 
+> 90% of the work on this plugin was contributed by AIGC, [sharing the collaborative process](https://expert.matrixspace.ai/share#/5859fabbf29b4fe3af1e3e87831f1bf9)
+
 ## Installation
 
 ```bash
