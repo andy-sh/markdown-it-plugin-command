@@ -7,3 +7,4 @@ node_modules/
 # local configuration
 .vscode/
 tmp.md
+yarn.lock
