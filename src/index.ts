@@ -22,10 +22,10 @@ export function commandPlugin(md: MarkdownIt): void {
         while ((match = paramRegex.exec(paramsString)) !== null) {
             const [, key, value] = match;
             if (value) {
-                // 如果有值，去除引号并解析转义字符
+                // If there is a value, remove the quotes and parse the escape characters
                 params[key] = value.replace(/^['"]|['"]$/g, "").replace(/\\(['"\\])/g, "$1");
             } else {
-                // 如果没有值，设置为空字符串或 true
+                // If no value is given, set to an empty string or true
                 params[key] = "";
             }
         }
